@@ -4,7 +4,6 @@
 - 🌱 Estou aprendendo Java, um pouco sobre Banco de Dados, Python, a utilização de PowerBi
 - 👯 Procuro colaborar com empresas e profissionais nos quais visam a evolução do aprendizado sempre para retorno de conhecimento e financeiro
 - 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://beacons.ai/SamuelPDS">
@@ -18,6 +17,6 @@
 </div>
 
 <div
-  <a href="https//linkedin.com/](https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https/in/samuel-charles-571614202](https://www.linkedin.com/in/samuel-charles-571614202)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    ![Snake animation](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
   </div> 
