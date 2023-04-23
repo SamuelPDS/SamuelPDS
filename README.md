@@ -6,14 +6,14 @@
 - 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional
 
 <div align="center">
-  <a href="https://beacons.ai/SamuelPDS"> <imgheight="140em"src="https://githubreadmestatsberyl.vercel.app/apiusername=SamuelPDS&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515/>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelPDS)](https://github.com/anuraghazra/github-readme-stats)
-    
+  <a href="https://beacons.ai/SamuelPDS"> <imgheight="140em"src="https://githubreadmestatsberyl.vercel.app/apiusername=SamuelPDS&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515/> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  <div style="display: inline_block"><br>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+    <div style="display: inline_block"><br>
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 </div>
 
