@@ -5,10 +5,7 @@
 - 👯 Procuro colaborar com empresas e profissionais nos quais visam a evolução do aprendizado sempre para retorno de conhecimento e financeiro
 - 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional
 
-<div align="center">
-  <a href="https://beacons.ai/SamuelPDS"> <imgheight="140em"src="https://githubreadmestatsberyl.vercel.app/apiusername=SamuelPDS&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515/> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 | <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&include_all_commits=true&theme=dark_border=true" alt="Samuel's github stats" /></a> | <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
