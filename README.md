@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-| <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samuel's github stats" /></a> | <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&include_all_commits=true&theme=dark_border=true" alt="Samuel's github stats" /></a> | <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
     <div style="display: inline_block"><br>
