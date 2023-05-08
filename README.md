@@ -14,7 +14,7 @@
 </div>
 
 <div[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samuel-charles-571614202/)](https://www.linkedin.com/in/samuel-charles-571614202/)&nbsp;
-</p>
+</div>
   
    ![Snake animation](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
    
