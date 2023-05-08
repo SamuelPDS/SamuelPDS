@@ -17,6 +17,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Angular" height="30" width="40" background_color = white src="https://github.com/vorillaz/devicons/blob/master/!PNG/angular_simple.png">
+ <img align="center" alt="Java" height="30" width="40" background_color = white src="https://github.com/SamuelPDS/icons/blob/main/icons/java%20(4).png">
+ 
   </div>  
 
 <div>
