@@ -13,7 +13,6 @@
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
 
 <div[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/samuel-charles-571614202/)](https://www.linkedin.com/in/samuel-charles-571614202/)&nbsp;
-</div>
   
    ![Snake animation](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
-  
+  </div>
