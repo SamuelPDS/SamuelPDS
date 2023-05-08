@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://stock.adobe.com/images/id/295038583?k=angular%20icon&clickref=1101lwJQTf7d&mv=affiliate&mv2=Freepik&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=Flaticon&as_content=api&as_audience=srp&sdid=6WTV6YJ5">
+  <img align="center" alt="Csharp" height="30" width="40" src="[https://stock.adobe.com/images/id/295038583?k=angular%20icon&clickref=1101lwJQTf7d&mv=affiliate&mv2=Freepik&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=Flaticon&as_content=api&as_audience=srp&sdid=6WTV6YJ5](https://github.com/vorillaz/devicons/blob/master/!PNG/angular_simple.png)">
   </div>  
 
 <div>
