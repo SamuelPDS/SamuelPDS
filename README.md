@@ -1,4 +1,4 @@
-## Olá! Eu sou o Samuel
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Samuel;Bem+Vindo+ao+meu+GitHub.+Aproveite!)](https://git.io/typing-svg)
 
 - 🔭 Estagiário em desenvolvimento de software Web
 - 🌱 Estou aprendendo Java, um pouco sobre Banco de Dados, Python, a utilização de PowerBi, HTML5, CSS, JavaScript;
