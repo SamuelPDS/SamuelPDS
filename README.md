@@ -13,7 +13,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a> 
     <a href="https://github.com/SamuelPDS/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true" />
   </a> 
    
     
