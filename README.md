@@ -10,7 +10,7 @@
 
  <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&include_all_commits=true&theme=dark_border=true" alt="Samuel's github stats" />
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a> 
     <a href="https://github.com/SamuelPDS/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark_border=true" />
