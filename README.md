@@ -8,7 +8,7 @@
 
 
 
- <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&include_all_commits=true&theme=dark_border=true" alt="Samuel's github stats" />
+ <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&border=true" alt="Samuel's github stats" />
 
  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a> 
