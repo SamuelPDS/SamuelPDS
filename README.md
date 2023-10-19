@@ -9,20 +9,20 @@
 
 
  <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&border=true" alt="Samuel's github stats" />
-    </a> 
-    <a href="https://github.com/SamuelPDS/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true" />
+ </a> 
+  <a href="https://github.com/SamuelPDS/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
     </a> 
    
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ts" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Java" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img align="center" alt="Java" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img align="center" alt="Git" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </div>  
 <br>
 <div align="center" margin-top="10px">
