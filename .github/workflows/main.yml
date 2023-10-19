@@ -1,20 +1,25 @@
-name: Generate Datas
+name: Snake Game
 
+#controll the time
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */5 * * *"
   workflow_dispatch:
 
+#Rules
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+        # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+      
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: SamuelPDS
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
