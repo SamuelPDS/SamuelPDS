@@ -22,9 +22,10 @@
   <img align="center" alt="Angular" height="45" width="50" background_color = white src="https://github.com/vorillaz/devicons/blob/master/!PNG/angular_simple.png">
  <img align="center" alt="Java" height="45" width="50" background_color = white src="https://github.com/SamuelPDS/icons/blob/main/icons/java%20(4).png">
   </div>  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<div align="center" margin-top="10px">
+  <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>  
  
    ![Snake animation](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
