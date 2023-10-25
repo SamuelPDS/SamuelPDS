@@ -12,9 +12,8 @@
  <a href="#">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&border=true" alt="Samuel's github stats" />
  </a> 
- 
  <a href="#">
-   <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
+   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
  </a> 
 </div>
 
