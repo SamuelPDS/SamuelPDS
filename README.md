@@ -7,13 +7,18 @@
 - 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional;
 
 
-
- <a href="https://github.com/SamuelPDS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&border=true" alt="Samuel's github stats" />
+## Readme Stats
+<div align="center">
+ <a href="#">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&include_all_commits=true&border=true" alt="Samuel's github stats" />
  </a> 
-  <a href="https://github.com/SamuelPDS/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
-    </a> 
-   
+ 
+ <a href="#">
+   <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
+ </a> 
+</div>
+
+## Tecnologias
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -26,10 +31,12 @@
    <img align="center" alt="Git" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   </div>  
 <br>
+
+## Conecte-se Comigo
 <div align="center" margin-top="10px">
   <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>  
  
-   ![Snake gif](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/SamuelPDS/SamuelPDS/blob/output/github-contribution-grid-snake.svg)
 
