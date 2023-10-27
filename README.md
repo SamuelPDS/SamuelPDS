@@ -16,7 +16,14 @@
  <a href="#">
    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
  </a> 
- 
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## Tecnologias
@@ -39,11 +46,6 @@
  <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>  
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
-  </picture>
 
 
 
