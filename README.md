@@ -18,7 +18,7 @@
  </a> 
 </div>
 
-<div align="center">
+<div align="center"> Snake Animation Fora do ar!
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid.svg">
