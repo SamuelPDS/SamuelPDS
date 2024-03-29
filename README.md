@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Samuel;Bem+Vindo+ao+meu+GitHub.+Aproveite!)](https://git.io/typing-svg) <img src="https://tenor.com/view/e-gif-10731664124636879314.gif" align="right" width="120"/>
 ## Sobre mim
-- 🔭 Estagiário em desenvolvimento de TI;
+- 🔭 Estagiário em desenvolvimento Full Stack;
 - 🌱 Estou aprendendo tecnologias Web, como , HTML, CSS, JavaScript, Typescript, a utilização de PowerBi, um pouco sobre Banco de Dados, Python, frameworks Angular e React;
 - 👯 Procuro colaborar com empresas e profissionais nos quais visam a evolução do aprendizado sempre;
 - 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional;
