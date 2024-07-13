@@ -1,51 +1,45 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Samuel;Bem+Vindo+ao+meu+GitHub.+Aproveite!)](https://git.io/typing-svg) <img src="https://tenor.com/view/e-gif-10731664124636879314.gif" align="right" width="120"/>
-## Sobre mim
-- 🔭 Estagiário em desenvolvimento Full Stack;
-- 🌱 Estou aprendendo tecnologias Web, como, HTML, CSS, JavaScript, Typescript, a utilização de PowerBi, Banco de Dados, Java, frameworks Angular e Spring;
-- 👯 Procuro colaborar com empresas e profissionais nos quais visam a evolução do aprendizado sempre;
-- 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional;
-
-
-## Readme Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Samuel;Bem+Vindo+ao+meu+GitHub.+Aproveite!)](https://git.io/typing-svg)
+# Sobre mim
+<p align="left"> - 🔭 Estagiário em desenvolvimento Full Stack;<br>- 🌱 Estou aprendendo tecnologias Web, como, HTML, CSS, JavaScript, Typescript, a utilização de PowerBi, Banco de Dados, Java, frameworks Angular e Spring;<br>- 👯 Procuro colaborar com empresas e profissionais nos quais visam a evolução do aprendizado sempre;<br>- 🤔 Procuro suporte na área de tecnologia e afins para desenvolvimento pessoal e profissional;</p>
+<div align="center">
 <div align="center">
  <a href="#">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelPDS&show_icons=true&theme=dark&border=true" alt="Samuel's github stats"/>
  </a> 
-
  <a href="#">
    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPDS&layout=compact&theme=dark&border=true"/>
  </a> 
 </div>
-
-<div align="center"> Snake Animation Fora do ar! (Trabalhando para Solucionar)
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/github-contribution-grid-snake.svg">
-  </picture>
+<img align="right" height="140" src="https://tenor.com/view/e-gif-10731664124636879314.gif"  />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-## Tecnologias
- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="45" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <!-- img align="center" alt="React" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" -->
-  <img align="center" alt="HTML" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- img align="center" alt="Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Java" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" -->
-   <img align="center" alt="Git" height="45" width="50" background_color = white src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  </div>  
-<br>
-
-## Conecte-se Comigo
-<div align="center" margin-top="10px">
-  <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/samuel-charles-571614202" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- </div>  
-
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=SamuelPDS&theme=cobalt" alt="Layout with last medium posts"  />
+</div>
+<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SamuelPDS.SamuelPDS&"  />
+</div>
 
