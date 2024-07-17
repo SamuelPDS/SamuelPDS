@@ -40,7 +40,7 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/SamuelPDS/SamuelPDS/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <!img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=SamuelPDS&theme=cobalt" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=SamuelPDS&theme=cobalt" alt="Layout with last medium posts"  />
 </div>
 <br clear="both">
 <div align="center">
